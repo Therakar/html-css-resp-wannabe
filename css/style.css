@@ -164,6 +164,10 @@ img {
     }
 
    /* why us */
+   .why-us .col{
+    width: 100%;
+    padding: 3rem;
+}
 
 }
     
