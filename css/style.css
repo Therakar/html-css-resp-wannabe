@@ -143,5 +143,21 @@ img {
         max-width: 30rem;
         margin-left: -1.0625rem;
     }
+
+    .row{
+       flex-wrap: wrap;
+    }
+
+    /* lessions */
+    .lessons .col {
+        width: 100%;
+        padding: 3rem;
+        
+    }
+
+    /* steps */
+
+    /* why us */
+
 }
     
