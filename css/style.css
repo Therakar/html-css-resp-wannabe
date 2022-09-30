@@ -156,8 +156,14 @@ img {
     }
 
     /* steps */
+    .steps .col{
+        width: 100%;
+        padding: 3rem;
+        
+        
+    }
 
-    /* why us */
+   /* why us */
 
 }
     
