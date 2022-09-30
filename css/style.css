@@ -129,10 +129,19 @@ img {
  ************************************************/
 
  /* 0 < vw <= 768px */
- @media screen and (max-width: 768px){
+ @media screen and (max-width: 48rem){
     .container{
         max-width: 48rem;
-        margin-left: -17px;
+        margin-left: -1.0625rem;
     }
     
 }
+
+/* 0 < vw <= 480px */
+@media screen and (max-width: 30rem){
+    .container{
+        max-width: 30rem;
+        margin-left: -1.0625rem;
+    }
+}
+    
